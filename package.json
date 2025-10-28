@@ -1,0 +1,13 @@
+{
+  "name": "skills-copilot-codespaces-vscode",
+  "version": "1.0.0",
+  "description": "Invoice Generator / Gerador de Faturas",
+  "main": "invoiceGenerator.js",
+  "scripts": {
+    "test": "node test.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
